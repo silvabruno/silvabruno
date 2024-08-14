@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### Badges
+
+|     |     |
+| --- | --- |
+| ![aws-certified-solutions-architect-associate](aws-certified-solutions-architect-associate-120px.png) | ![]() |
+| [Link](https://www.credly.com/badges/19eb8554-61b7-4949-840c-2d93c00e845a/public_url) | [Link]() |
+
 <!--
 **silvabruno/silvabruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
