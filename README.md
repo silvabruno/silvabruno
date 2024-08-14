@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-#### Badges
+### Badges
 
-|     |     |
-| --- | --- |
-| ![aws-certified-solutions-architect-associate](aws-certified-solutions-architect-associate-120px.png) | ![]() |
-| [Link](https://www.credly.com/badges/19eb8554-61b7-4949-840c-2d93c00e845a/public_url) | [Link]() |
+#### AWS
+
+| Solutions Architect Associate | Cloud Practitioner |
+| :---: | :---: |
+| ![aws-certified-solutions-architect-associate](aws-certified-solutions-architect-associate-102px.png) | ![aws-certified-cloud-practitioner-102px](aws-certified-cloud-practitioner-102px.png) |
+| [Link](https://www.credly.com/badges/19eb8554-61b7-4949-840c-2d93c00e845a/public_url) | [Link](https://www.credly.com/badges/dc84a393-507e-4d7b-85f9-fbce1f7a916b/public_url) |
 
 <!--
 **silvabruno/silvabruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
