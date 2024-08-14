@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### Badges
+#### Badges
 
-#### AWS
+##### AWS
 
 | Solutions Architect Associate | Cloud Practitioner |
 | :---: | :---: |
