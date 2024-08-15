@@ -11,10 +11,10 @@
 
 ##### IBM
 
-|  |  |
-| :---: | :---: |
-| ![](/assets/images/ibm/ibm-agile-explorer-102px.png) | ![](/assets/images/ibm/enterprise-design-thinking-practitioner-102px.png) |
-| [Link](https://www.credly.com/badges/b07266dc-36cc-450a-8e2d-1ac589544830/public_url) | [Link](https://www.credly.com/badges/4617daa5-1ac7-4bfb-800c-946c81b16eec/public_url) |
+|  |  |  |
+| :---: | :---: | :---: |
+| ![](/assets/images/ibm/power-skills-communication-presentation-collaborati-102px.png) | ![](/assets/images/ibm/ibm-agile-explorer-102px.png) | ![](/assets/images/ibm/enterprise-design-thinking-practitioner-102px.png) |
+| [Link](https://www.credly.com/badges/f0a971dd-e6db-4bec-ba3a-b8102a098fe4/public_url) | [Link](https://www.credly.com/badges/b07266dc-36cc-450a-8e2d-1ac589544830/public_url) | [Link](https://www.credly.com/badges/4617daa5-1ac7-4bfb-800c-946c81b16eec/public_url) |
 
 <!--
 **silvabruno/silvabruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
