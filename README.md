@@ -2,19 +2,19 @@
 
 #### Badges
 
-##### AWS
-
-|  |  |
-| :---: | :---: |
-| ![aws-certified-solutions-architect-associate](/assets/images/aws/aws-certified-solutions-architect-associate-102px.png) | ![aws-certified-cloud-practitioner-102px](/assets/images/aws/aws-certified-cloud-practitioner-102px.png) |
-| [Link](https://www.credly.com/badges/19eb8554-61b7-4949-840c-2d93c00e845a/public_url) | [Link](https://www.credly.com/badges/dc84a393-507e-4d7b-85f9-fbce1f7a916b/public_url) |
-
 ##### IBM
 
 |  |  |  |
 | :---: | :---: | :---: |
 | ![](/assets/images/ibm/power-skills-communication-presentation-collaborati-102px.png) | ![](/assets/images/ibm/ibm-agile-explorer-102px.png) | ![](/assets/images/ibm/enterprise-design-thinking-practitioner-102px.png) |
 | [Link](https://www.credly.com/badges/f0a971dd-e6db-4bec-ba3a-b8102a098fe4/public_url) | [Link](https://www.credly.com/badges/b07266dc-36cc-450a-8e2d-1ac589544830/public_url) | [Link](https://www.credly.com/badges/4617daa5-1ac7-4bfb-800c-946c81b16eec/public_url) |
+
+##### AWS
+
+|  |  |  |
+| :---: | :---: | :---: |
+| ![aws-certified-developer-associate](/assets/images/aws/aws-certified-developer-associate-102px.png) | ![aws-certified-solutions-architect-associate](/assets/images/aws/aws-certified-solutions-architect-associate-102px.png) | ![aws-certified-cloud-practitioner-102px](/assets/images/aws/aws-certified-cloud-practitioner-102px.png) |
+| [Link](https://www.credly.com/badges/e0273f83-93b7-42ab-8636-d0c2dd9d5e21/public_url) | [Link](https://www.credly.com/badges/19eb8554-61b7-4949-840c-2d93c00e845a/public_url) | [Link](https://www.credly.com/badges/dc84a393-507e-4d7b-85f9-fbce1f7a916b/public_url) |
 
 ##### Others
 
