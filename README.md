@@ -11,10 +11,10 @@
 
 ##### AWS
 
-|  |  |  |
-| :---: | :---: | :---: |
-| ![aws-certified-cloud-practitioner-102px](/assets/images/aws/aws-certified-cloud-practitioner-108px.png) | ![aws-certified-solutions-architect-associate](/assets/images/aws/aws-certified-solutions-architect-associate-108px.png) | ![aws-certified-developer-associate](/assets/images/aws/aws-certified-developer-associate-108px.png) |
-| [Link](https://www.credly.com/badges/dc84a393-507e-4d7b-85f9-fbce1f7a916b/public_url) | [Link](https://www.credly.com/badges/19eb8554-61b7-4949-840c-2d93c00e845a/public_url) | [Link](https://www.credly.com/badges/e0273f83-93b7-42ab-8636-d0c2dd9d5e21/public_url) |
+|  |  |  |  |
+| :---: | :---: | :---: | :---: |
+| ![aws-certified-cloud-practitioner-102px](/assets/images/aws/aws-certified-cloud-practitioner-108px.png) | ![aws/aws-certified-ai-practitioner](/assets/images/aws/aws-certified-ai-practitioner-108px.png) | ![aws-certified-solutions-architect-associate](/assets/images/aws/aws-certified-solutions-architect-associate-108px.png) | ![aws-certified-developer-associate](/assets/images/aws/aws-certified-developer-associate-108px.png) |
+| [Link](https://www.credly.com/badges/dc84a393-507e-4d7b-85f9-fbce1f7a916b/public_url) | [Link](https://www.credly.com/badges/69fbb212-c2c5-4234-8b61-648e32808ac4/public_url) | [Link](https://www.credly.com/badges/19eb8554-61b7-4949-840c-2d93c00e845a/public_url) | [Link](https://www.credly.com/badges/e0273f83-93b7-42ab-8636-d0c2dd9d5e21/public_url) |
 
 ##### Others
 
