@@ -11,10 +11,10 @@
 
 ##### AI
 
-|  |
-| :---: |
-| ![aws/aws-certified-ai-practitioner](/assets/images/aws/aws-certified-ai-practitioner-108px.png) |
-| [Link](https://www.credly.com/badges/69fbb212-c2c5-4234-8b61-648e32808ac4/public_url) |
+|  |  |
+| :---: | :---: |
+| ![aws/aws-certified-ai-practitioner](/assets/images/aws/aws-certified-ai-practitioner-108px.png) | ![anthropic/claude-certified-architect-foundations](/assets/images/anthropic/claude-certified-architect-foundations.png) |
+| [Link](https://www.credly.com/badges/69fbb212-c2c5-4234-8b61-648e32808ac4/public_url) | [Link](https://www.credly.com/badges/2c132a43-a7c0-4f0b-a745-896ae11ee18d/public_url) |
 
 ##### Others
 
